@@ -19,3 +19,6 @@ https://machinelearningmastery.com/how-to-grid-search-sarima-model-hyperparamete
 Codes for Grid Search Framework on Exponential Smoothing and SARIMA modelling uploaded.
 
 Code for Stacked LSTM uploaded.
+
+
+Code for Bidirectional LSTM uploaded.
