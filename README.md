@@ -20,5 +20,6 @@ Codes for Grid Search Framework on Exponential Smoothing and SARIMA modelling up
 
 Code for Stacked LSTM uploaded.
 
-
 Code for Bidirectional LSTM uploaded.
+
+Code for CNN LSTM  and CONV LSTM uploaded.
