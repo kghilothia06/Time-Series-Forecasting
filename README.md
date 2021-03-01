@@ -27,3 +27,5 @@ Code for CNN LSTM  and CONV LSTM uploaded.
 Vector output stacked LSTM model uploaded.
 
 Encoder-Decoder model uploaded.
+
+14.6.1 uploaded.
