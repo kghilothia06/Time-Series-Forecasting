@@ -29,3 +29,5 @@ Vector output stacked LSTM model uploaded.
 Encoder-Decoder model uploaded.
 
 14.6.1 uploaded.
+
+14.6.2 (CNN-LSTM) uploaded.
