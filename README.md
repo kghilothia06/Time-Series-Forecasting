@@ -37,3 +37,5 @@ Encoder-Decoder model uploaded.
 15.6 (grid search LSTM) uploaded.
 
 20.6 uploaded.
+
+20.7 (encoder decoder LSTM) uploaded.
