@@ -35,3 +35,5 @@ Encoder-Decoder model uploaded.
 14.6.3 (Conv-LSTM) uploaded.
 
 15.6 (grid search LSTM) uploaded.
+
+20.6 uploaded.
