@@ -39,3 +39,5 @@ Encoder-Decoder model uploaded.
 20.6 uploaded.
 
 20.7 (encoder decoder LSTM) uploaded.
+
+cnn encoder - LSTM decoder (20.9) uploaded.
