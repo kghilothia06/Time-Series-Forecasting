@@ -45,3 +45,5 @@ cnn encoder - LSTM decoder (20.9) uploaded.
 ConvLSTM encoder decoder (20.10) uploaded.
 
 Graphs for exponential smoothing added.
+
+VAR(Vector autoregression) Model uploaded.
