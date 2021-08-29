@@ -47,3 +47,7 @@ ConvLSTM encoder decoder (20.10) uploaded.
 Graphs for exponential smoothing added.
 
 VAR(Vector autoregression) Model uploaded.
+
+Data till JULY revenue uploaded
+
+graphs in 14.6.2, 14.6.3, 15.6, 20.9, 20.10 added.
