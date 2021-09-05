@@ -51,3 +51,5 @@ VAR(Vector autoregression) Model uploaded.
 Data till JULY revenue uploaded
 
 graphs in 14.6.2, 14.6.3, 15.6, 20.9, 20.10 added.
+
+Encoder Decoder for mulitvariate data added (20.8) and its dataset as well.
